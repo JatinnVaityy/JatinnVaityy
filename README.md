@@ -38,18 +38,6 @@
 </p>
 
 
-📊 GitHub Stats
-
-<img align="right" alt="Coding GIF" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatinvaity&show_icons=true&theme=radical&layout=compact" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jatinvaity&show_icons=true&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinvaity&theme=radical" width="80%" />
-</p>
 
  🤝 Connect With Me
 
