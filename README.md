@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack MERN Developer | Electronics & Telecommunication Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Passionate+Full+Stack+Developer;Electronics+%2B+Code+is+my+Playground;Transforming+Ideas+into+Web+%26+IoT+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00A8E8&center=true&vCenter=true&multiline=true&width=600&height=70&lines=A+Full+Stack+Developer;Transforming+Ideas+into+Web+Solutions" alt="Typing SVG" />
 </p>
 
 
