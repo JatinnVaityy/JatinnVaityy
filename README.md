@@ -12,7 +12,7 @@
 
 - 🏫 Final Year B.E. Student at **Vivekanand Education Society's Institute of Technology**, Mumbai  
 - 🎓 Branch: **Electronics & Telecommunication Engineering**  
-- 💻 Passionate about **Web Development**, **IoT**, and building real-world impactful tech  
+- 💻 Passionate about **Web Development**, and building real-world impactful tech  
 - 🛠️ MERN Stack | REST APIs | Real-Time Systems | Hardware + Cloud Integrations  
 - 🌱 Currently exploring **Cloud Deployment** and **DevOps Fundamentals**  
 - 📬 Reach me at **vaityjatin13@gmail.com**
